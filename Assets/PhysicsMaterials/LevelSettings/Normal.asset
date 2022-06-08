@@ -11,6 +11,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 618a0eace8b484bdca00ed06a5d0869e, type: 3}
   m_Name: Normal
   m_EditorClassIdentifier: 
-  gravity: -30
-  bgm: {fileID: 0}
-  background: {fileID: 0}
